@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>The Most Famous Products</title>
+    <style>
+        /* CSS styles */
+        .purple-text {
+            color: purple; /* Change font color to purple */
+        }
+        
+        .italic-text {
+            font-style: italic; /* Make text italic */
+        }
+        
+        .large-text {
+            font-size: 16px; /* Increase font size to 16 pixels */
+        }
+    </style>
+</head>
+<body>
+   <h1 class="purple-text">The famous products</h1>
+   <h2 class="italic-text">Lashes</h2>
+   <p class="large-text">Huda Beauty is a makeup powerhouse with over 140 products available online and in stores. The product that started it all, are the faux lashes its Huda Beauty's first product. Moreover, they remain one of the brand's best-sellers for good reason. Hand-designed by Kattan herself and made from a cruelty-free combo, these are hands-down some of the highest-quality falsies we've ever seen.</p>
+   <img src="https://3.bp.blogspot.com/-Mtc2bFbVplY/VQVYCXfUV0I/AAAAAAAABUM/V-Yn6aJwgpw/s1600/IMG_6097.jpg" alt="Trulli" width="550" height="333">
+   <h2 class="italic-text">Setting powder</h2>
+   <p class="large-text">Kattan is a big fan of baking makeup as a final finishing step its also her secret to ensuring her makeup stays put for 12 hours at a time. It comes in eight shades—seven more skin-toned hues plus a translucent option we like for fair skin, thanks to its subtle neutral undertones that deliver a brightening effect. There's also a convenient, net-like top that ensures you never end up with too much powder. And if you don't want to use it for full-on baking, it also works great as a simple and straightforward setting powder, too.</p>
+   <img src="https://bigcartsa.com/image/cache/catalog/products/products_06/9408906928/P3410032_2-320x320.jpg" alt="Trulli" width="550" height="333">
+   <p><a href="https://www.byrdie.com/huda-beauty-5075805" target="_blank">Visit Byrdie!</a></p>
+   <br>
+   <a href="about.html">Back</a>
+   <a href="famous.html">Next</a>
+</body>
+</html>
