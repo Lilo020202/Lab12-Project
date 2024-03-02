@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>About Huda Beauty</title>
+    <style>
+        /* CSS styles */
+        .blue-text {
+            color: blue; /* Change font color to blue */
+        }
+        
+        .italic-text {
+            font-style: italic; /* Make text italic */
+        }
+        
+        .large-text {
+            font-size: 18px; /* Increase font size to 18 pixels */
+        }
+    </style>
+</head>
+<body>
+   <h1 class="blue-text">Huda Beauty!</h1>
+   <p class="italic-text large-text">Huda Kattan developed Huda Beauty in 2013 as a result of her passion for beauty and disappointment with her position in finance. After struggling to get outstanding false lashes, she along with her sisters, decided to get into the beauty business. Huda Beauty has expanded into an international success, famous for its unique and extensive product line that includes lip glosses and eyeshadow palettes. The brand has generated over $200 million in sales annually and built a reputation for excellence via multiple successful launches. Huda Beauty tends to be more than simply a cosmetics company; it also strives to build a global community of beauty aficionados and enable people to express themselves fearlessly through makeup.</p>
+   <br>
+   <img src="https://www.usatoday.com/gcdn/presto/2019/10/14/USAT/5912a581-54ce-4bd9-aed2-227fcd0d81bf-AP_Emirates_Huda_Boss.JPG?crop=3805,2854,x194,y0" alt="Trulli" width="500" height="300">
+   <br>
+   <img src="https://d2hy56m2o6qi9y.cloudfront.net/wp-content/uploads/2023/02/13122924/MATTE_OBSESSIONS_HUDA_2376-e1676358147689.jpg" alt="Trulli" width="550" height="300">
+   <br>
+   <p><a href="https://www.hindustantimes.com/fashion-and-trends/huda-beauty-the-multi-million-cosmetics-brand-built-on-the-internet/story-TPSnZv43b6ZiB9iv5d3oeJ.html" target="_blank" class="blue-text">Visit Hindustan Times!</a></p>
+   <br>
+   <a href="about.html">Next</a>
+</body>
+</html>
