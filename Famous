@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Where to Find the Products</title>
+    <style>
+        /* CSS styles */
+        .green-text {
+            color: green; /* Change font color to green */
+        }
+        
+        .bold-text {
+            font-weight: bold; /* Make text bold */
+        }
+        
+        .small-text {
+            font-size: 14px; /* Decrease font size to 14 pixels */
+        }
+    </style>
+</head>
+<body>
+   <h1 class="green-text">Where you can find the products</h1>
+   <p class="bold-text">The places where they can find and pick up the products they want is by beauty retailer Sephora Dubai in 2013. At the time, Sephora Dubai expected to sell 7,000 units of the lashes in a year, but instead, all 7,000 units sold in a week. Retail sales hit $1.5 million that year and $10 million the next, according to Forbes.</p> 
+   <img src="https://i.pinimg.com/736x/b5/3d/db/b53ddb12c2383fd463e1f110b3b980b9.jpg" alt="Trulli" width="500" height="333">
+   <img src="https://ilgiornaledellabellezza.it/wp-content/uploads/2023/03/20230303_235541_0000.png" alt="Trulli" width="550" height="333">
+   <p><a href="https://www.cnbc.com/2021/06/01/huda-kattan-turned-her-passion-into-a-billion-dollar-business-.html" target="_blank">Visit CNBC!</a></p>
+   <br>
+   <a href="products.html" class="small-text">Back</a>
+</body>
+</html>
