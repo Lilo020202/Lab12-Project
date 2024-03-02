@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My Page</title>
+    <style>
+        /* CSS styles */
+        .red-text {
+            color: red; /* Change font color to red */
+        }
+        
+        .italic-text {
+            font-style: italic; /* Make text italic */
+        }
+        
+        .large-text {
+            font-size: 24px; /* Increase font size to 24 pixels */
+        }
+    </style>
+</head>
+<body>
+   <h1 class="red-text">Products</h1>
+   <p class="italic-text large-text">Huda Beauty is a makeup powerhouse with over 140 products available online and in stores. From lipsticks in various shades to versatile highlighter and contour palettes, their range caters to every makeup need. Their fake eyelashes, including the popular Samantha Lashes #7, are highly acclaimed. In addition to the setting powder in all the various shades, which got famous In 2018, their new products collectively brought in over $200 million in revenue, showcasing their financial success. As online shopping for beauty products surges, Huda Beauty stands out as a leader in the digital space, offering innovative products that resonate with consumers worldwide.</p>
+   <img src="https://blogscdn.thehut.net/app/uploads/sites/1736/2021/10/wk4wk46_huda-gold-palette-competition_00_600x400-9vb9mjpg_1633098536.jpg" alt="Trulli" width="500" height="333">
+   <a href="https://en.wikipedia.org/wiki/Huda_Beauty" target="_blank">Visit Wikipedia!</a>
+   <a href="index1.html">Back</a>
+   <a href="products.html">Next</a>
+</body>
+</html>
